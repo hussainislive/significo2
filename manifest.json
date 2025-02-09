@@ -27,13 +27,13 @@
   ],
   "icons": [
     {
-      "src": "/significo2/icons/icon-192x192.png",
+      "src": "/significo2/icons/icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/significo2/icons/icon-512x512.png",
+      "src": "/significo2/icons/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
